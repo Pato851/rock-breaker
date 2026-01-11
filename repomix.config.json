@@ -1,0 +1,20 @@
+{
+  "output": {
+    "filePath": "repomix-output.xml",
+    "style": "xml",
+    "headerText": "Codebase Context"
+  },
+  "ignore": {
+    "useGitignore": true,
+    "useDefaultPatterns": true,
+    "customPatterns": [
+      "package-lock.json",
+      "repomix-output.xml",
+      "repomix-docs.xml",
+      "repomix-src.xml",
+      ".vscode/**",
+      "dist/**",
+      "public/**"
+    ]
+  }
+}
