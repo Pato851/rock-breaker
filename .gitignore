@@ -31,4 +31,5 @@ repomix-all.xml
 # Docs
 docs/*
 !docs/PURPOSE.md
+!docs/STYLEGUIDE.md
 !docs/hero.png
