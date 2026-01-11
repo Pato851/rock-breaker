@@ -10,9 +10,9 @@
     "pack:docs": "repomix --include \"docs/**\" --output repomix-docs.xml",
     "pack:src": "repomix --include \"src/**\" --output repomix-src.xml",
     "pack:all": "repomix --output repomix-all.xml",
-    "format:docs": "prettier --write \"docs/*.md\" \"README.md\" \".agent/workflows/*.md\"",
+    "format:docs": "prettier --write docs/*.md README.md .agent/workflows/*.md",
     "lint": "eslint .",
-    "lint:docs": "prettier --check \"docs/*.md\" \"README.md\" \".agent/workflows/*.md\"",
+    "lint:docs": "prettier --check docs/*.md README.md .agent/workflows/*.md",
     "diff": "git add -N . && git diff"
   },
   "dependencies": {
