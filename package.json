@@ -12,7 +12,8 @@
     "pack:all": "repomix --output repomix-all.xml",
     "format:docs": "prettier --write \"docs/*.md\" \"README.md\"",
     "lint": "eslint .",
-    "lint:docs": "prettier --check \"docs/*.md\" \"README.md\""
+    "lint:docs": "prettier --check \"docs/*.md\" \"README.md\"",
+    "diff": "git add -N . && git diff"
   },
   "dependencies": {
     "vue": "^3.5.24"
